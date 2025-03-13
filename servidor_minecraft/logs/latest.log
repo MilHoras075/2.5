@@ -58,3 +58,5 @@ com.google.gson.JsonSyntaxException: Expected entry to be a JsonObject, was "mot
 [02:29:11] [User Authenticator #0/INFO]: UUID of player MilHoras is b2223d6c-da37-309a-a458-ca91063fd5f1
 [02:29:12] [Server thread/INFO]: MilHoras joined the game
 [02:29:12] [Server thread/INFO]: MilHoras[/100.72.2.94:61143] logged in with entity id 99 at ([world]-97.61446115081093, 12.0, -103.30000001192093)
+[02:45:28] [Server thread/INFO]: MilHoras lost connection: Disconnected
+[02:45:28] [Server thread/INFO]: MilHoras left the game
