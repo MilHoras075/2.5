@@ -78,3 +78,32 @@
 [23:47:48] [User Authenticator #1/INFO]: UUID of player MilHoras is b2223d6c-da37-309a-a458-ca91063fd5f1
 [23:47:48] [Server thread/INFO]: MilHoras joined the game
 [23:47:48] [Server thread/INFO]: MilHoras[/127.184.226.15:44099] logged in with entity id 4267 at ([world]-95.30000001192093, 12.0, -103.49729967036866)
+[23:53:12] [Server thread/INFO]: Made MilHoras a server operator
+[23:53:40] [Server thread/INFO]: iSophie_17 was killed
+[23:53:40] [Server thread/INFO]: Killed iSophie_17
+[23:53:42] [Server thread/INFO]: MilHoras has made the advancement [Diamonds!]
+[23:54:42] [Server thread/INFO]: MilHoras fell from a high place
+[23:54:58] [Server thread/INFO]: MilHoras issued server command: /gamemode creative
+[23:54:58] [Server thread/INFO]: [MilHoras: Set own game mode to Creative Mode]
+[23:55:12] [Server thread/INFO]: iSophie_17 was killed by MilHoras using magic
+[23:55:28] [Server thread/INFO]: iSophie_17 has made the advancement [Suit Up]
+[23:56:04] [Server thread/INFO]: MilHoras has made the advancement [Spooky Scary Skeleton]
+[23:56:14] [Server thread/INFO]: MilHoras has made the advancement [Withering Heights]
+[23:56:14] [Server thread/INFO]: iSophie_17 has made the advancement [Withering Heights]
+[23:56:22] [Server thread/INFO]: motomoto64152 has made the advancement [Ice Bucket Challenge]
+[23:57:38] [Server thread/INFO]: MilHoras lost connection: Timed out
+[23:57:38] [Server thread/INFO]: MilHoras left the game
+[23:57:46] [User Authenticator #2/INFO]: UUID of player MilHoras is b2223d6c-da37-309a-a458-ca91063fd5f1
+[23:57:47] [Server thread/INFO]: MilHoras joined the game
+[23:57:47] [Server thread/INFO]: MilHoras[/127.184.226.15:36169] logged in with entity id 9124 at ([world]-116.29697661790844, 65.88749730333113, -36.07567912180372)
+[23:57:48] [Server thread/INFO]: iSophie_17 issued server command: /callback
+[23:57:59] [Server thread/INFO]: Made iSophie_17 a server operator
+[23:58:13] [Server thread/INFO]: iSophie_17 issued server command: /gamerule keepInventory true
+[23:58:13] [Server thread/INFO]: [iSophie_17: Gamerule keepInventory is now set to: true]
+[23:58:27] [Server thread/INFO]: iSophie_17 issued server command: /tp @e motomoto64152
+[23:58:27] [Server thread/INFO]: [iSophie_17: Teleported 471 entities to motomoto64152]
+[23:58:27] [Server thread/INFO]: motomoto64152 has made the advancement [Spooky Scary Skeleton]
+[23:58:30] [Server thread/INFO]: motomoto64152 was slain by Zombie
+[23:58:30] [Server thread/INFO]: MilHoras lost connection: Disconnected
+[23:58:30] [Server thread/INFO]: MilHoras left the game
+[23:58:32] [Server thread/INFO]: iSophie_17 was blown up by Creeper
