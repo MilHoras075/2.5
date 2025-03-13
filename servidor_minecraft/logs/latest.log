@@ -44,3 +44,6 @@
 [22:10:17] [Server thread/INFO]: Done preparing level "world" (4.614s)
 [22:10:17] [Server thread/INFO]: Running delayed init tasks
 [22:10:17] [Server thread/INFO]: Done (19.813s)! For help, type "help"
+[22:35:20] [User Authenticator #0/INFO]: UUID of player motomoto64152 is b8d25178-e1fd-3eb9-885d-4bd6fc804473
+[22:35:22] [Server thread/INFO]: motomoto64152 joined the game
+[22:35:22] [Server thread/INFO]: motomoto64152[/127.87.249.17:38087] logged in with entity id 77 at ([world]-87.5, 73.0, -113.5)
