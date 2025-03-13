@@ -1,62 +1,79 @@
-[19Dec2024 02:34:46.128] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412]
-[19Dec2024 02:34:46.133] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 21.0.5 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
-[19Dec2024 02:34:46.291] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[19Dec2024 02:34:46.366] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/2.5/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[19Dec2024 02:34:46.717] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/2.5/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[19Dec2024 02:34:46.732] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/2.5/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Dec2024 02:34:46.735] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/2.5/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Dec2024 02:34:46.737] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/2.5/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[19Dec2024 02:34:46.872] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[19Dec2024 02:34:49.392] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
-[19Dec2024 02:34:59.489] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[19Dec2024 02:34:59.494] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[19Dec2024 02:35:00.951] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[19Dec2024 02:35:01.755] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.12
-[19Dec2024 02:35:02.767] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19Dec2024 02:35:03.671] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/2.5/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/assets/.mcassetsroot' uses unexpected schema
-[19Dec2024 02:35:03.672] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/2.5/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23101!/data/.mcassetsroot' uses unexpected schema
-[19Dec2024 02:35:06.934] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[19Dec2024 02:35:07.149] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
-[19Dec2024 02:35:07.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[19Dec2024 02:35:07.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[19Dec2024 02:35:07.971] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[19Dec2024 02:35:07.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[19Dec2024 02:35:08.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[19Dec2024 02:35:08.594] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[19Dec2024 02:35:08.702] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19Dec2024 02:35:08.704] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[19Dec2024 02:35:08.705] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19Dec2024 02:35:08.705] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[19Dec2024 02:35:08.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[19Dec2024 02:35:18.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[19Dec2024 02:35:27.651] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:27.662] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:27.663] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:27.663] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:27.664] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:27.665] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:27.666] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:27.667] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:27.668] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:27.669] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:27.681] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:27.686] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:27.695] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:27.702] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:27.705] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:27.707] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:27.713] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:27.716] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:27.821] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:28.323] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:28.822] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:29.321] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:29.821] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[19Dec2024 02:35:30.321] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 11%
-[19Dec2024 02:35:30.837] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 12017 ms
-[19Dec2024 02:35:30.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (22.116s)! For help, type "help"
-[19Dec2024 02:35:30.873] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[19Dec2024 02:36:10.441] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MilHoras[/100.72.2.94:53997] logged in with entity id 218 at (39.30000001192093, 103.0, -119.71900880894208)
-[19Dec2024 02:36:10.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilHoras joined the game
-[19Dec2024 02:37:10.652] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MilHoras lost connection: Disconnected
-[19Dec2024 02:37:10.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MilHoras left the game
+[01:28:26] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
+[01:28:26] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
+[01:28:27] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[01:28:27] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[01:28:29] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Remapping server...
+[01:28:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[01:28:39] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[01:28:39] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[01:28:41] [ServerMain/INFO]: No existing world data, creating new world
+[01:28:44] [ServerMain/INFO]: Loaded 1337 recipes
+[01:28:44] [ServerMain/INFO]: Loaded 1448 advancements
+[01:28:44] [Paper Plugin Remapper Thread - 0/INFO]: [ReobfServer] Done remapping server in 14921ms.
+[01:28:44] [Server thread/INFO]: Starting minecraft server version 1.21.3
+[01:28:44] [Server thread/INFO]: Loading properties
+[01:28:45] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
+[01:28:46] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[01:28:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[01:28:46] [Server thread/INFO]: Using 4 threads for Netty based IO
+[01:28:47] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[01:28:47] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[01:28:47] [Server thread/INFO]: Default game type: SURVIVAL
+[01:28:47] [Server thread/INFO]: Generating keypair
+[01:28:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+[01:28:47] [Server thread/INFO]: Using epoll channel type
+[01:28:48] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[01:28:48] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[01:28:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01:28:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[01:28:48] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01:28:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[01:28:48] [Server thread/INFO]: Preparing level "world"
+[01:28:58] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[01:28:59] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 388.9ms
+[01:29:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[01:29:06] [Server thread/INFO]: Preparing spawn area: 2%
+[01:29:06] [Server thread/INFO]: Preparing spawn area: 2%
+[01:29:07] [Server thread/INFO]: Preparing spawn area: 2%
+[01:29:07] [Server thread/INFO]: Preparing spawn area: 2%
+[01:29:07] [Server thread/INFO]: Preparing spawn area: 2%
+[01:29:08] [Server thread/INFO]: Preparing spawn area: 2%
+[01:29:08] [Server thread/INFO]: Preparing spawn area: 6%
+[01:29:09] [Server thread/INFO]: Preparing spawn area: 10%
+[01:29:10] [Server thread/INFO]: Preparing spawn area: 18%
+[01:29:10] [Server thread/INFO]: Preparing spawn area: 18%
+[01:29:10] [Server thread/INFO]: Preparing spawn area: 18%
+[01:29:11] [Server thread/INFO]: Preparing spawn area: 18%
+[01:29:12] [Server thread/INFO]: Preparing spawn area: 18%
+[01:29:12] [Server thread/INFO]: Preparing spawn area: 18%
+[01:29:13] [Server thread/INFO]: Preparing spawn area: 18%
+[01:29:13] [Server thread/INFO]: Preparing spawn area: 51%
+[01:29:13] [Server thread/INFO]: Preparing spawn area: 57%
+[01:29:14] [Server thread/INFO]: Preparing spawn area: 59%
+[01:29:15] [Server thread/INFO]: Preparing spawn area: 59%
+[01:29:15] [Server thread/INFO]: Preparing spawn area: 63%
+[01:29:15] [Server thread/INFO]: Time elapsed: 9538 ms
+[01:29:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[01:29:15] [Server thread/INFO]: Preparing spawn area: 2%
+[01:29:16] [Server thread/INFO]: Preparing spawn area: 2%
+[01:29:16] [Server thread/INFO]: Preparing spawn area: 18%
+[01:29:17] [Server thread/INFO]: Preparing spawn area: 42%
+[01:29:17] [Server thread/INFO]: Preparing spawn area: 63%
+[01:29:18] [Server thread/INFO]: Preparing spawn area: 63%
+[01:29:18] [Server thread/INFO]: Time elapsed: 2714 ms
+[01:29:18] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[01:29:18] [Server thread/INFO]: Preparing spawn area: 2%
+[01:29:18] [Server thread/INFO]: Preparing spawn area: 40%
+[01:29:18] [Server thread/INFO]: Time elapsed: 754 ms
+[01:29:19] [Server thread/INFO]: [spark] Starting background profiler...
+[01:29:19] [Server thread/INFO]: Done preparing level "world" (31.200s)
+[01:29:19] [Server thread/INFO]: Running delayed init tasks
+[01:29:19] [Server thread/INFO]: Done (54.006s)! For help, type "help"
+[01:29:19] [Server thread/INFO]: *************************************************************************************
+[01:29:19] [Server thread/INFO]: This is the first time you're starting this server.
+[01:29:19] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[01:29:19] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[01:29:19] [Server thread/INFO]: *************************************************************************************
+[01:35:46] [User Authenticator #0/INFO]: UUID of player MilHoras is b2223d6c-da37-309a-a458-ca91063fd5f1
+[01:35:48] [Server thread/INFO]: MilHoras joined the game
+[01:35:48] [Server thread/INFO]: MilHoras[/100.72.2.94:58034] logged in with entity id 40 at ([world]-94.5, 66.0, -112.5)
