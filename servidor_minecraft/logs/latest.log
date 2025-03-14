@@ -1,109 +1,176 @@
-[23:28:50] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.6+7-Ubuntu-120.04.1; Ubuntu null) on Linux 6.8.0-1021-azure (amd64)
-[23:28:50] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) for Minecraft 1.21.3
-[23:28:50] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[23:28:51] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[23:29:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[23:29:06] [ServerMain/INFO]: Loaded 1337 recipes
-[23:29:06] [ServerMain/INFO]: Loaded 1448 advancements
-[23:29:07] [Server thread/INFO]: Starting minecraft server version 1.21.3
-[23:29:07] [Server thread/INFO]: Loading properties
-[23:29:07] [Server thread/INFO]: This server is running Paper version 1.21.3-63-master@4190ee7 (2024-11-25T18:59:19Z) (Implementing API version 1.21.3-R0.1-SNAPSHOT)
-[23:29:09] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[23:29:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[23:29:09] [Server thread/INFO]: Using 4 threads for Netty based IO
-[23:29:11] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[23:29:11] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[23:29:12] [Server thread/INFO]: Default game type: SURVIVAL
-[23:29:12] [Server thread/INFO]: Generating keypair
-[23:29:12] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:29:12] [Server thread/INFO]: Using epoll channel type
-[23:29:12] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[23:29:12] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[23:29:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[23:29:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:29:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:29:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:29:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:29:13] [Server thread/INFO]: Preparing level "world"
-[23:29:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:29:15] [Server thread/INFO]: Preparing spawn area: 0%
-[23:29:15] [Server thread/INFO]: Preparing spawn area: 0%
-[23:29:15] [Server thread/INFO]: Preparing spawn area: 0%
-[23:29:16] [Server thread/INFO]: Preparing spawn area: 2%
-[23:29:16] [Server thread/INFO]: Preparing spawn area: 2%
-[23:29:16] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[23:29:17] [Paper Common Worker #0/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 1,022.7ms
-[23:29:17] [Server thread/INFO]: Preparing spawn area: 2%
-[23:29:17] [Server thread/INFO]: Preparing spawn area: 2%
-[23:29:19] [Server thread/INFO]: Preparing spawn area: 6%
-[23:29:19] [Server thread/INFO]: Preparing spawn area: 6%
-[23:29:19] [Server thread/INFO]: Preparing spawn area: 6%
-[23:29:19] [Server thread/INFO]: Time elapsed: 4767 ms
-[23:29:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[23:29:19] [Server thread/INFO]: Preparing spawn area: 0%
-[23:29:19] [Server thread/INFO]: Preparing spawn area: 10%
-[23:29:19] [Server thread/INFO]: Time elapsed: 713 ms
-[23:29:19] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[23:29:20] [Server thread/INFO]: Preparing spawn area: 0%
-[23:29:20] [Server thread/INFO]: Time elapsed: 456 ms
-[23:29:20] [Server thread/INFO]: [spark] Starting background profiler...
-[23:29:23] [Server thread/INFO]: Done preparing level "world" (10.327s)
-[23:29:23] [Server thread/INFO]: Running delayed init tasks
-[23:29:23] [Server thread/INFO]: Done (37.427s)! For help, type "help"
-[23:29:59] [User Authenticator #0/INFO]: UUID of player iSophie_17 is ad9ea2a2-d657-37d1-950a-ce15074b7419
-[23:30:00] [Server thread/INFO]: iSophie_17 joined the game
-[23:30:00] [Server thread/INFO]: iSophie_17[/127.249.213.198:44765] logged in with entity id 36 at ([world]-88.5, 73.0, -106.5)
-[23:30:13] [User Authenticator #0/INFO]: UUID of player motomoto64152 is b8d25178-e1fd-3eb9-885d-4bd6fc804473
-[23:30:15] [Server thread/INFO]: motomoto64152 joined the game
-[23:30:15] [Server thread/INFO]: motomoto64152[/127.87.249.17:60897] logged in with entity id 276 at ([world]-122.4600454546503, 64.0, -236.47649460905947)
-[23:31:11] [Server thread/INFO]: iSophie_17 has made the advancement [Stone Age]
-[23:31:16] [Server thread/INFO]: motomoto64152 has made the advancement [Stone Age]
-[23:31:20] [Server thread/INFO]: iSophie_17 has made the advancement [Getting an Upgrade]
-[23:31:56] [Server thread/INFO]: motomoto64152 has made the advancement [Getting an Upgrade]
-[23:32:13] [Server thread/INFO]: iSophie_17 has made the advancement [Monster Hunter]
-[23:37:22] [Server thread/INFO]: iSophie_17 has made the advancement [Acquire Hardware]
-[23:37:32] [Server thread/INFO]: iSophie_17 has made the advancement [Isn't It Iron Pick]
-[23:37:43] [Server thread/INFO]: iSophie_17 has made the advancement [Diamonds!]
-[23:40:10] [Server thread/INFO]: iSophie_17 issued server command: /me ha sido asesinado/a por Wither
-[23:40:10] [Async Chat Thread - #0/INFO]: [Not Secure] * iSophie_17 ha sido asesinado/a por Wither
-[23:41:25] [Server thread/INFO]: motomoto64152 has made the advancement [Acquire Hardware]
-[23:41:59] [Server thread/INFO]: motomoto64152 has made the advancement [Isn't It Iron Pick]
-[23:43:17] [Server thread/INFO]: motomoto64152 has made the advancement [Suit Up]
-[23:44:22] [Server thread/INFO]: motomoto64152 was blown up by Creeper
-[23:47:15] [User Authenticator #1/INFO]: UUID of player MilHoras is b2223d6c-da37-309a-a458-ca91063fd5f1
-[23:47:16] [Server thread/INFO]: MilHoras joined the game
-[23:47:16] [Server thread/INFO]: MilHoras[/127.184.226.15:55065] logged in with entity id 4141 at ([world]-95.30000001192093, 13.0, -104.69999998807907)
-[23:47:35] [Server thread/INFO]: MilHoras lost connection: Disconnected
-[23:47:35] [Server thread/INFO]: MilHoras left the game
-[23:47:48] [User Authenticator #1/INFO]: UUID of player MilHoras is b2223d6c-da37-309a-a458-ca91063fd5f1
-[23:47:48] [Server thread/INFO]: MilHoras joined the game
-[23:47:48] [Server thread/INFO]: MilHoras[/127.184.226.15:44099] logged in with entity id 4267 at ([world]-95.30000001192093, 12.0, -103.49729967036866)
-[23:53:12] [Server thread/INFO]: Made MilHoras a server operator
-[23:53:40] [Server thread/INFO]: iSophie_17 was killed
-[23:53:40] [Server thread/INFO]: Killed iSophie_17
-[23:53:42] [Server thread/INFO]: MilHoras has made the advancement [Diamonds!]
-[23:54:42] [Server thread/INFO]: MilHoras fell from a high place
-[23:54:58] [Server thread/INFO]: MilHoras issued server command: /gamemode creative
-[23:54:58] [Server thread/INFO]: [MilHoras: Set own game mode to Creative Mode]
-[23:55:12] [Server thread/INFO]: iSophie_17 was killed by MilHoras using magic
-[23:55:28] [Server thread/INFO]: iSophie_17 has made the advancement [Suit Up]
-[23:56:04] [Server thread/INFO]: MilHoras has made the advancement [Spooky Scary Skeleton]
-[23:56:14] [Server thread/INFO]: MilHoras has made the advancement [Withering Heights]
-[23:56:14] [Server thread/INFO]: iSophie_17 has made the advancement [Withering Heights]
-[23:56:22] [Server thread/INFO]: motomoto64152 has made the advancement [Ice Bucket Challenge]
-[23:57:38] [Server thread/INFO]: MilHoras lost connection: Timed out
-[23:57:38] [Server thread/INFO]: MilHoras left the game
-[23:57:46] [User Authenticator #2/INFO]: UUID of player MilHoras is b2223d6c-da37-309a-a458-ca91063fd5f1
-[23:57:47] [Server thread/INFO]: MilHoras joined the game
-[23:57:47] [Server thread/INFO]: MilHoras[/127.184.226.15:36169] logged in with entity id 9124 at ([world]-116.29697661790844, 65.88749730333113, -36.07567912180372)
-[23:57:48] [Server thread/INFO]: iSophie_17 issued server command: /callback
-[23:57:59] [Server thread/INFO]: Made iSophie_17 a server operator
-[23:58:13] [Server thread/INFO]: iSophie_17 issued server command: /gamerule keepInventory true
-[23:58:13] [Server thread/INFO]: [iSophie_17: Gamerule keepInventory is now set to: true]
-[23:58:27] [Server thread/INFO]: iSophie_17 issued server command: /tp @e motomoto64152
-[23:58:27] [Server thread/INFO]: [iSophie_17: Teleported 471 entities to motomoto64152]
-[23:58:27] [Server thread/INFO]: motomoto64152 has made the advancement [Spooky Scary Skeleton]
-[23:58:30] [Server thread/INFO]: motomoto64152 was slain by Zombie
-[23:58:30] [Server thread/INFO]: MilHoras lost connection: Disconnected
-[23:58:30] [Server thread/INFO]: MilHoras left the game
-[23:58:32] [Server thread/INFO]: iSophie_17 was blown up by Creeper
+[00:00:07] [Server thread/INFO]: MilHoras issued server command: /gamemode creative
+[00:00:07] [Server thread/INFO]: [MilHoras: Set own game mode to Creative Mode]
+[00:00:15] [Server thread/INFO]: iSophie_17 issued server command: /tp @e motomoto64152
+[00:00:15] [Server thread/INFO]: [iSophie_17: Teleported 223 entities to motomoto64152]
+[00:00:26] [Server thread/INFO]: MilHoras lost connection: Disconnected
+[00:00:26] [Server thread/INFO]: MilHoras left the game
+[00:00:35] [Server thread/INFO]: motomoto64152 issued server command: /tp @e iSophie_17
+[00:00:35] [Server thread/INFO]: [motomoto64152: Teleported 219 entities to iSophie_17]
+[00:00:37] [Server thread/INFO]: motomoto64152 was blown up by Creeper
+[00:00:39] [Server thread/INFO]: iSophie_17 issued server command: /gamemode survival
+[00:00:39] [Server thread/INFO]: [iSophie_17: Set own game mode to Survival Mode]
+[00:00:49] [Server thread/INFO]: iSophie_17 issued server command: /gamemode spectator
+[00:00:49] [Server thread/INFO]: [iSophie_17: Set own game mode to Spectator Mode]
+[00:00:52] [Server thread/INFO]: iSophie_17 issued server command: /gamemode creative
+[00:00:52] [Server thread/INFO]: [iSophie_17: Set own game mode to Creative Mode]
+[00:00:55] [Server thread/INFO]: motomoto64152 issued server command: /scoreboard objectives add vida health
+[00:00:55] [Server thread/INFO]: [motomoto64152: Created new objective [vida]]
+[00:01:11] [Server thread/INFO]: motomoto64152 issued server command: /scoreboard objectives setdisplay list vida
+[00:01:11] [Server thread/INFO]: [motomoto64152: Set display slot list to show objective vida]
+[00:01:37] [Server thread/INFO]: motomoto64152 issued server command: /kill iSophie_17
+[00:01:37] [Server thread/INFO]: iSophie_17 was killed
+[00:01:37] [Server thread/INFO]: [motomoto64152: Killed iSophie_17]
+[00:01:45] [Server thread/INFO]: iSophie_17 issued server command: /tp @e motomoto64152
+[00:01:45] [Server thread/INFO]: [iSophie_17: Teleported 121 entities to motomoto64152]
+[00:01:48] [Server thread/INFO]: iSophie_17 issued server command: /gamemode spectator
+[00:01:48] [Server thread/INFO]: [iSophie_17: Set own game mode to Spectator Mode]
+[00:01:49] [Server thread/INFO]: iSophie_17 issued server command: /gamemode survival
+[00:01:49] [Server thread/INFO]: [iSophie_17: Set own game mode to Survival Mode]
+[00:01:51] [Server thread/INFO]: motomoto64152 was slain by Spider
+[00:02:08] [Server thread/INFO]: iSophie_17 issued server command: /tp motomoto64152
+[00:02:08] [Server thread/INFO]: [iSophie_17: Teleported iSophie_17 to motomoto64152]
+[00:02:13] [Server thread/INFO]: iSophie_17 issued server command: /gamemode spectator
+[00:02:13] [Server thread/INFO]: [iSophie_17: Set own game mode to Spectator Mode]
+[00:03:12] [Server thread/INFO]: iSophie_17 issued server command: /tp @e motomoto64152
+[00:03:12] [Server thread/INFO]: [iSophie_17: Teleported 249 entities to motomoto64152]
+[00:03:14] [Server thread/INFO]: motomoto64152 was blown up by Creeper
+[00:03:17] [Server thread/INFO]: motomoto64152 issued server command: /gamemode creative
+[00:03:17] [Server thread/INFO]: [motomoto64152: Set own game mode to Creative Mode]
+[00:03:26] [Server thread/INFO]: iSophie_17 issued server command: /gamemode creative
+[00:03:26] [Server thread/INFO]: [iSophie_17: Set own game mode to Creative Mode]
+[00:03:28] [Server thread/INFO]: motomoto64152 issued server command: /tp @e iSophie_17
+[00:03:28] [Server thread/INFO]: [motomoto64152: Teleported 266 entities to iSophie_17]
+[00:03:35] [Server thread/INFO]: motomoto64152 issued server command: /gamemode spectator
+[00:03:35] [Server thread/INFO]: [motomoto64152: Set own game mode to Spectator Mode]
+[00:03:35] [Server thread/INFO]: iSophie_17 issued server command: /gamemode spectator
+[00:03:35] [Server thread/INFO]: [iSophie_17: Set own game mode to Spectator Mode]
+[00:03:50] [Server thread/INFO]: motomoto64152 issued server command: /tp @e
+[00:03:54] [Server thread/INFO]: motomoto64152 issued server command: /tp @e motomoto64152
+[00:03:54] [Server thread/INFO]: [motomoto64152: Teleported 214 entities to motomoto64152]
+[00:04:00] [Server thread/INFO]: iSophie_17 issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:0,direction:[0.0,0.0,0.0]}
+[00:04:00] [Server thread/INFO]: [iSophie_17: Summoned new Fireball]
+[00:04:05] [Server thread/INFO]: iSophie_17 issued server command: /gamemode creative
+[00:04:05] [Server thread/INFO]: [iSophie_17: Set own game mode to Creative Mode]
+[00:04:22] [Server thread/INFO]: motomoto64152 issued server command: /gamemode adventure iSophie_17
+[00:04:22] [Server thread/INFO]: [motomoto64152: Set iSophie_17's game mode to Adventure Mode]
+[00:04:23] [Server thread/INFO]: iSophie_17 issued server command: /gamemode creative motomoto64152
+[00:04:23] [Server thread/INFO]: [iSophie_17: Set motomoto64152's game mode to Creative Mode]
+[00:04:24] [Server thread/INFO]: iSophie_17 fell from a high place
+[00:04:24] [Server thread/INFO]: iSophie_17 issued server command: /gamemode survival
+[00:04:24] [Server thread/INFO]: [iSophie_17: Set own game mode to Survival Mode]
+[00:04:27] [Server thread/INFO]: iSophie_17 issued server command: /gamemode creative
+[00:04:27] [Server thread/INFO]: [iSophie_17: Set own game mode to Creative Mode]
+[00:04:34] [Server thread/INFO]: iSophie_17 issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:0,direction:[0.0,0.0,0.0]}
+[00:04:34] [Server thread/INFO]: [iSophie_17: Summoned new Fireball]
+[00:04:40] [Server thread/INFO]: iSophie_17 issued server command: /tp motomoto64152 iso
+[00:04:40] [Server thread/INFO]: motomoto64152 issued server command: /gamemode survival iSophie_17
+[00:04:40] [Server thread/INFO]: [motomoto64152: Set iSophie_17's game mode to Survival Mode]
+[00:04:41] [Server thread/INFO]: iSophie_17 issued server command: /tp motomoto64152 iso
+[00:04:43] [Server thread/INFO]: iSophie_17 issued server command: /tp motomoto64152 iSophie_17
+[00:04:43] [Server thread/INFO]: [iSophie_17: Teleported motomoto64152 to iSophie_17]
+[00:04:44] [Server thread/INFO]: iSophie_17 issued server command: /gamemode creative
+[00:04:44] [Server thread/INFO]: [iSophie_17: Set own game mode to Creative Mode]
+[00:04:49] [Server thread/INFO]: iSophie_17 issued server command: /gamemode survival motomoto64152
+[00:04:49] [Server thread/INFO]: [iSophie_17: Set motomoto64152's game mode to Survival Mode]
+[00:04:50] [Server thread/INFO]: motomoto64152 issued server command: /gamemode creative
+[00:04:50] [Server thread/INFO]: [motomoto64152: Set own game mode to Creative Mode]
+[00:04:52] [Server thread/INFO]: iSophie_17 issued server command: /gamemode survival motomoto64152
+[00:04:52] [Server thread/INFO]: [iSophie_17: Set motomoto64152's game mode to Survival Mode]
+[00:04:55] [Server thread/INFO]: motomoto64152 issued server command: /gamemode creative
+[00:04:55] [Server thread/INFO]: [motomoto64152: Set own game mode to Creative Mode]
+[00:05:02] [Server thread/INFO]: No entity was found
+[00:05:08] [Server thread/INFO]: iSophie_17 issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:1000,direction:[0.0,0.0,0.0]}
+[00:05:08] [Server thread/INFO]: [iSophie_17: Summoned new Fireball]
+[00:05:11] [Server thread/INFO]: iSophie_17 issued server command: /tp motomoto64152 iSophie_17
+[00:05:11] [Server thread/INFO]: [iSophie_17: Teleported motomoto64152 to iSophie_17]
+[00:05:13] [Server thread/INFO]: motomoto64152 issued server command: /summon minecraft:armor_stand
+[00:05:13] [Server thread/INFO]: [motomoto64152: Summoned new Armor Stand]
+[00:05:14] [Server thread/INFO]: iSophie_17 issued server command: /gamemode survival motomoto64152
+[00:05:14] [Server thread/INFO]: [iSophie_17: Set motomoto64152's game mode to Survival Mode]
+[00:05:16] [Server thread/INFO]: Teleported 2 entities to 0.500000, 90.000000, 0.500000
+[00:05:23] [Server thread/INFO]: motomoto64152 issued server command: /gamemode creative
+[00:05:23] [Server thread/INFO]: [motomoto64152: Set own game mode to Creative Mode]
+[00:05:29] [Server thread/INFO]: iSophie_17 issued server command: /tp motomoto64152 iSophie_17
+[00:05:29] [Server thread/INFO]: [iSophie_17: Teleported motomoto64152 to iSophie_17]
+[00:05:31] [Server thread/INFO]: iSophie_17 issued server command: /gamemode survival motomoto64152
+[00:05:31] [Server thread/INFO]: [iSophie_17: Set motomoto64152's game mode to Survival Mode]
+[00:05:32] [Server thread/INFO]: motomoto64152 issued server command: /gamemode creative
+[00:05:32] [Server thread/INFO]: [motomoto64152: Set own game mode to Creative Mode]
+[00:05:35] [Server thread/INFO]: iSophie_17 issued server command: /gamemode survival motomoto64152
+[00:05:35] [Server thread/INFO]: [iSophie_17: Set motomoto64152's game mode to Survival Mode]
+[00:05:36] [Server thread/INFO]: motomoto64152 issued server command: /gamemode survival iSophie_17
+[00:05:36] [Server thread/INFO]: [motomoto64152: Set iSophie_17's game mode to Survival Mode]
+[00:05:37] [Server thread/INFO]: iSophie_17 issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:1000,direction:[0.0,0.0,0.0]}
+[00:05:37] [Server thread/INFO]: [iSophie_17: Summoned new Fireball]
+[00:05:39] [Server thread/INFO]: iSophie_17 issued server command: /gamemode survival motomoto64152
+[00:05:41] [Server thread/INFO]: motomoto64152 issued server command: /gamemode creative
+[00:05:41] [Server thread/INFO]: [motomoto64152: Set own game mode to Creative Mode]
+[00:05:41] [Server thread/INFO]: iSophie_17 issued server command: /gamemode creative
+[00:05:41] [Server thread/INFO]: [iSophie_17: Set own game mode to Creative Mode]
+[00:05:42] [Server thread/INFO]: iSophie_17 issued server command: /gamemode survival motomoto64152
+[00:05:42] [Server thread/INFO]: [iSophie_17: Set motomoto64152's game mode to Survival Mode]
+[00:05:45] [Server thread/INFO]: motomoto64152 issued server command: /gamemode creative
+[00:05:45] [Server thread/INFO]: [motomoto64152: Set own game mode to Creative Mode]
+[00:05:49] [Server thread/INFO]: iSophie_17 issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:1000,direction:[0.0,0.0,0.0]}
+[00:05:49] [Server thread/INFO]: [iSophie_17: Summoned new Fireball]
+[00:05:50] [Server thread/INFO]: motomoto64152 issued server command: /gamemode survival iSophie_17
+[00:05:50] [Server thread/INFO]: [motomoto64152: Set iSophie_17's game mode to Survival Mode]
+[00:05:51] [Server thread/INFO]: iSophie_17 issued server command: /gamemode creative
+[00:05:51] [Server thread/INFO]: [iSophie_17: Set own game mode to Creative Mode]
+[00:06:00] [Server thread/INFO]: iSophie_17 issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:100000000000000,direction:[0.0,0.0,0.0]}
+[00:06:00] [Server thread/INFO]: [iSophie_17: Summoned new Fireball]
+[00:06:00] [Server thread/INFO]: motomoto64152 issued server command: /gamemode survival iSophie_17
+[00:06:00] [Server thread/INFO]: [motomoto64152: Set iSophie_17's game mode to Survival Mode]
+[00:06:03] [Server thread/INFO]: iSophie_17 issued server command: /gamemode creative
+[00:06:03] [Server thread/INFO]: [iSophie_17: Set own game mode to Creative Mode]
+[00:06:07] [Server thread/INFO]: motomoto64152 issued server command: /gamemode creative
+[00:06:09] [Server thread/INFO]: You whisper to iSophie_17: pe
+[00:06:10] [Server thread/INFO]: motomoto64152 issued server command: /gamemode survival iSophie_17
+[00:06:10] [Server thread/INFO]: [motomoto64152: Set iSophie_17's game mode to Survival Mode]
+[00:06:12] [Server thread/INFO]: iSophie_17 issued server command: /gamemode creative
+[00:06:12] [Server thread/INFO]: [iSophie_17: Set own game mode to Creative Mode]
+[00:06:16] [Server thread/INFO]: iSophie_17 issued server command: /gamemode survival motomoto64152
+[00:06:16] [Server thread/INFO]: [iSophie_17: Set motomoto64152's game mode to Survival Mode]
+[00:06:16] [Server thread/INFO]: motomoto64152 issued server command: /gamemode creative
+[00:06:16] [Server thread/INFO]: [motomoto64152: Set own game mode to Creative Mode]
+[00:06:21] [Server thread/INFO]: motomoto64152 issued server command: /gamemode survival iSophie_17
+[00:06:21] [Server thread/INFO]: [motomoto64152: Set iSophie_17's game mode to Survival Mode]
+[00:06:24] [Server thread/INFO]: You whisper to iSophie_17: :v
+[00:06:26] [Server thread/INFO]: iSophie_17 issued server command: /gamemode creative
+[00:06:26] [Server thread/INFO]: [iSophie_17: Set own game mode to Creative Mode]
+[00:06:27] [Server thread/INFO]: iSophie_17 issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:0,direction:[0.0,0.0,0.0]}
+[00:06:27] [Server thread/INFO]: [iSophie_17: Summoned new Fireball]
+[00:06:33] [Server thread/INFO]: motomoto64152 issued server command: /gamemode creative
+[00:06:33] [Server thread/INFO]: You whisper to motomoto64152: :v
+[00:06:40] [Server thread/INFO]: iSophie_17 issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:999,direction:[0.0,0.0,0.0]}
+[00:06:40] [Server thread/INFO]: [iSophie_17: Summoned new Fireball]
+[00:06:48] [Server thread/INFO]: motomoto64152 issued server command: /msg Server :VVV
+[00:06:56] [Server thread/INFO]: motomoto64152 issued server command: /gamemode survival iSophie_17
+[00:06:56] [Server thread/INFO]: [motomoto64152: Set iSophie_17's game mode to Survival Mode]
+[00:07:01] [Server thread/INFO]: iSophie_17 issued server command: /gamemode creative
+[00:07:01] [Server thread/INFO]: [iSophie_17: Set own game mode to Creative Mode]
+[00:07:09] [Server thread/INFO]: iSophie_17 issued server command: /summon minecraft:fireball ~ ~3 ~ {ExplosionPower:900,direction:[0.0,0.0,0.0]}
+[00:07:09] [Server thread/INFO]: [iSophie_17: Summoned new Fireball]
+[00:07:18] [Server thread/INFO]: iSophie_17 issued server command: /summon minecraft:fireball ~ ~1 ~ {ExplosionPower:900,direction:[0.0,0.0,0.0]}
+[00:07:18] [Server thread/INFO]: [iSophie_17: Summoned new Fireball]
+[00:07:28] [Server thread/INFO]: motomoto64152 issued server command: /summon minecraft:ender_dragon ~ ~ ~
+[00:07:28] [Server thread/INFO]: [motomoto64152: Summoned new Ender Dragon]
+[00:07:34] [User Authenticator #4/INFO]: UUID of player MilHoras is b2223d6c-da37-309a-a458-ca91063fd5f1
+[00:07:35] [Server thread/INFO]: MilHoras joined the game
+[00:07:35] [Server thread/INFO]: MilHoras[/127.184.226.15:54449] logged in with entity id 15906 at ([world]-119.73755716423418, 68.91949841334785, -108.14932600817541)
+[00:07:37] [Server thread/INFO]: iSophie_17 issued server command: /give iSophie_17 minecraft:command_block
+[00:07:37] [Server thread/INFO]: [iSophie_17: Gave 1 [Command Block] to iSophie_17]
+[00:07:41] [Server thread/INFO]: iSophie_17 issued server command: /give iSophie_17 minecraft:command_block
+[00:07:41] [Server thread/INFO]: [iSophie_17: Gave 1 [Command Block] to iSophie_17]
+[00:07:47] [Server thread/INFO]: motomoto64152 issued server command: /tp iSophie_17 motomoto64152
+[00:07:47] [Server thread/INFO]: [motomoto64152: Teleported iSophie_17 to motomoto64152]
+[00:08:05] [Server thread/INFO]: MilHoras issued server command: /give MilHoras minecraft:command_block
+[00:08:05] [Server thread/INFO]: [MilHoras: Gave 1 [Command Block] to MilHoras]
+[00:08:09] [Server thread/INFO]: motomoto64152 issued server command: /give motomoto64152 minecraft:chain_command_block
+[00:08:09] [Server thread/INFO]: [motomoto64152: Gave 1 [Chain Command Block] to motomoto64152]
+[00:08:20] [Server thread/INFO]: motomoto64152 issued server command: /give motomoto64152 minecraft:chain_command_block
+[00:08:20] [Server thread/INFO]: [motomoto64152: Gave 1 [Chain Command Block] to motomoto64152]
+[00:08:23] [Server thread/INFO]: iSophie_17 issued server command: /fill ~ ~ ~ ~5 ~10 ~5 tnt
+[00:08:23] [Server thread/INFO]: [iSophie_17: Successfully filled 396 block(s)]
+[00:08:33] [Server thread/INFO]: iSophie_17 issued server command: /tp MilHoras iSophie_17
+[00:08:33] [Server thread/INFO]: [iSophie_17: Teleported MilHoras to iSophie_17]
